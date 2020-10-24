@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodonmountain%2Fhit-counter&count_bg=%236820DF&title_bg=%23555555&icon=react.svg&icon_color=%2347D0E3&title=%EC%A1%B0%ED%9A%8C%EC%88%98+VIEWED&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**dodonmountain/dodonmountain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
 
-Here are some ideas to get you started:
+- Web FE developer in Moin Inc. Seoul, Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interested In
+
+- React
+- Functional Programming
+- Typescript
+- Design Patterns (Flux)
+- CSR with SEO
+
