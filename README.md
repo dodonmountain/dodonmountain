@@ -1,8 +1,8 @@
 ### Frontend Developer
+---
+> Web FE developer in Moin Inc. Seoul, Korea.
 
-- Web FE developer in Moin Inc. Seoul, Korea.
-
-### Interested In
+### :cactus: Interested In
 
 - React
 - Functional Programming
