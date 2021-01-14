@@ -13,7 +13,7 @@
 
 [![Kyeongho's github stats](https://github-readme-stats.vercel.app/api?username=dodonmountain&include_all_commits=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodonmountain&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodonmountain&layout=compact&hide=HTML,python)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skylaming)](https://solved.ac/skylaming)
