@@ -2,11 +2,10 @@
 
 > Web FE developer in Moin Inc. Seoul, Korea.
 
-### :cactus: Interested In
+### :cactus: Love with
 
 - React
 - Functional Programming
-- Typescript
 - Design Patterns (Flux)
 - CSR with SEO
 
