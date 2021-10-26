@@ -4,7 +4,6 @@
 
 ### :cactus: Love with
 
-- React
 - Functional Programming
 - Flux
 - Scrum
