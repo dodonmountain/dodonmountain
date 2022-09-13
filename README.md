@@ -1,6 +1,6 @@
 ### :city_sunset: Frontend Developer
 
-> Web FE developer in Moin Inc. Seoul, Korea.
+> Web developer Seoul, Korea.
 
 ### :cactus: Love with
 
